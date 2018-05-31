@@ -21,4 +21,4 @@ Please fork this repo and then issue a Pull Request
 
 ### Copyright
 
-2018 HTS 
+2018 HTS All rights reserved
